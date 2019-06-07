@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-public class PruebaPreparada {
+public class PruebaInsertPreparada {
 
 	public static void main(String[] args) throws SQLException, ClassNotFoundException {
 		String driver= "com.mysql.jdbc.Driver";
