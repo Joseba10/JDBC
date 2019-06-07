@@ -11,7 +11,7 @@ public class PruebaModificarPreparedStatement {
 		String driver = "com.mysql.jdbc.Driver";
 		String url = "jdbc:mysql://localhost/pruebas";
 		String user = "root";
-		String password = "admin";
+		String password = "root";
 		// Carga driver
 		Class.forName(driver);
 		// Hace conexión
